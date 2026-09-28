@@ -483,7 +483,7 @@
 <!-- 6 -->
 > 🎯 *Improve your Russian through reading — graded texts, parallel translations, short stories, and classic literature.*
 
-<details><summary>📋 <strong>Show all 48 resources</strong></summary>
+<details><summary>📋 <strong>Show all 49 resources</strong></summary>
 
 | # | Resource | Description | Level |
 |:---:|----------|-------------|:-----:|
@@ -535,6 +535,7 @@
 | 46 | [English-Russian Bilingual Books (Bilinguator)](https://bilinguator.com/en/search?select-lingua1=en&select-lingua2=ru) | Searchable catalog of bilingual English-Russian books [Free] | All |
 | 47 | [AnyLang — Russian Short Stories](https://anylang.net/en/books/ru/short-stories) | Read with integrated dictionary and translation [Free] | B1 |
 | 48 | [LinguaBooster — Bilingual Books](https://linguabooster.com/en/ru/books/translated) | Free bilingual Russian-English books with built-in dictionary [Free] | All |
+| 49 | [Language through Literature](https://languagethroughliterature.com) | Unabridged Chekhov, Dostoevsky, Gogol and Turgenev with tap-glossed words (stress, dictionary form, meaning), sentence translations and narration [Freemium] | B1 |
 </details>
 
 --- 🇷🇺 --- 🇷🇺 --- 🇷🇺 ---
@@ -1301,7 +1302,7 @@
 | 3 | 🗣️ Pronunciation & Speaking | 17 |
 | 4 | 📝 Grammar | 99 |
 | 5 | 📚 Courses & MOOCs | 76 |
-| 6 | 📖 Reading Practice & Books | 48 |
+| 6 | 📖 Reading Practice & Books | 49 |
 | 7 | 💬 Vocabulary & Phrases | 36 |
 | 8 | 🃏 Flashcards & SRS | 33 |
 | 9 | 🎧 Podcasts & Audio | 39 |

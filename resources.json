@@ -2180,6 +2180,14 @@
         "level": "All",
         "pricing": "free",
         "types": []
+      },
+      {
+        "title": "Language through Literature",
+        "url": "https://languagethroughliterature.com",
+        "description": "Unabridged Chekhov, Dostoevsky, Gogol and Turgenev with tap-glossed words (stress, dictionary form, meaning), sentence translations and narration",
+        "level": "B1",
+        "pricing": "freemium",
+        "types": []
       }
     ]
   },
