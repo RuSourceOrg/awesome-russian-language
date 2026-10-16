@@ -535,6 +535,7 @@
 | 46 | [English-Russian Bilingual Books (Bilinguator)](https://bilinguator.com/en/search?select-lingua1=en&select-lingua2=ru) | Searchable catalog of bilingual English-Russian books [Free] | All |
 | 47 | [AnyLang — Russian Short Stories](https://anylang.net/en/books/ru/short-stories) | Read with integrated dictionary and translation [Free] | B1 |
 | 48 | [LinguaBooster — Bilingual Books](https://linguabooster.com/en/ru/books/translated) | Free bilingual Russian-English books with built-in dictionary [Free] | All |
+| 49 | [Bibooks](https://bibooks.org/languages/russian) | Free bilingual read-along audiobooks with sentence-by-sentence parallel text and word-highlighted audio [Freemium] | All |
 </details>
 
 --- 🇷🇺 --- 🇷🇺 --- 🇷🇺 ---
