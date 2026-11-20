@@ -483,7 +483,7 @@
 <!-- 6 -->
 > 🎯 *Improve your Russian through reading — graded texts, parallel translations, short stories, and classic literature.*
 
-<details><summary>📋 <strong>Show all 48 resources</strong></summary>
+<details><summary>📋 <strong>Show all 49 resources</strong></summary>
 
 | # | Resource | Description | Level |
 |:---:|----------|-------------|:-----:|
@@ -535,6 +535,7 @@
 | 46 | [English-Russian Bilingual Books (Bilinguator)](https://bilinguator.com/en/search?select-lingua1=en&select-lingua2=ru) | Searchable catalog of bilingual English-Russian books [Free] | All |
 | 47 | [AnyLang — Russian Short Stories](https://anylang.net/en/books/ru/short-stories) | Read with integrated dictionary and translation [Free] | B1 |
 | 48 | [LinguaBooster — Bilingual Books](https://linguabooster.com/en/ru/books/translated) | Free bilingual Russian-English books with built-in dictionary [Free] | All |
+| 49 | [LingoPlasty](https://lingoplasty.com/russian) | Illustrated Russian graded readers adapted for language learners, with narration, romanization and optional bilingual English support [Freemium] | All |
 </details>
 
 --- 🇷🇺 --- 🇷🇺 --- 🇷🇺 ---
